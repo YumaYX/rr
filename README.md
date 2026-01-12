@@ -21,7 +21,7 @@ Run a command repeatedly with a fixed interval.
 ### From source
 
 ```sh
-git clone https://github.com/yourname/rr.git
+git clone https://github.com/YumaYX/rr.git
 cd rr
 cargo build --release
 ```
